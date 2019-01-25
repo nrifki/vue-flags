@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="150px" viewBox="0 0 200 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>no</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Europe" transform="translate(-730.000000, -1450.000000)">
+            <g id="no" transform="translate(730.000000, 1450.000000)">
+                <polygon id="Path" fill="#ED2939" points="0 0 200 0 200 150 0 150"></polygon>
+                <polygon id="Path" fill="#FFFFFF" points="56.25 0 93.75 0 93.75 150 56.25 150"></polygon>
+                <polygon id="Path" fill="#FFFFFF" points="0 56.25 200 56.25 200 93.75 0 93.75"></polygon>
+                <polygon id="Path" fill="#002664" points="65.625 0 84.375 0 84.375 150 65.625 150"></polygon>
+                <polygon id="Path" fill="#002664" points="0 65.625 200 65.625 200 84.375 0 84.375"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
