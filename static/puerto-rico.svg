@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="140px" viewBox="0 0 200 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>pr</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.204678363 0 199.824561 0 199.824561 141 0.204678363 141"></polygon>
+    </defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="North-America" transform="translate(-1170.000000, -850.000000)">
+            <g id="pr" transform="translate(1170.000000, 850.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Path"></g>
+                <g id="Group" mask="url(#mask-2)">
+                    <g transform="translate(0.000000, -1.000000)">
+                        <polygon id="Path" fill="#ED0000" fill-rule="evenodd" points="0 0.84358707 200 0.84358707 200 140.843587 1.11022302e-14 140.843587"></polygon>
+                        <path d="M0,28.8435871 L200,28.8435871 L200,56.8435871 L0,56.8435871 L0,28.8435871 Z M0,84.8435871 L200,84.8435871 L200,112.843587 L0,112.843587 L0,84.8435871 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        <polygon id="Path" fill="#0050F0" fill-rule="evenodd" points="0 0.84358707 115 70.8983816 0 140.843587"></polygon>
+                        <polygon id="Path" fill="#FFFFFF" fill-rule="evenodd" points="50.4281984 90.7609641 38.0522193 80.9839149 25.7284595 90.8435871 30.3237598 74.8422756 18 64.9275215 33.2219321 64.8173576 37.9477807 48.8435871 42.7780679 64.7622756 58 64.7898166 45.7545692 74.7871936 50.4543081 90.7609641"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

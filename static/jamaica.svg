@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="150px" viewBox="0 0 200 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>jm</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="North-America" transform="translate(-70.000000, -650.000000)">
+            <g id="jm" transform="translate(70.000000, 650.000000)">
+                <path d="M0,0 L100,75 L0,150 L0,0 Z M200,0 L100,75 L200,150 L200,0 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                <path d="M0,0 L100,75 L200,0 L0,0 Z M0,150 L100,75 L200,150 L0,150 Z" id="Shape" fill="#009900" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#FFCC00" points="200 0 181.375 0 0 136.03125 0 150 18.625 150 200 13.96875"></polygon>
+                <polygon id="Path" fill="#FFCC00" points="0 0 0 13.96875 181.375 150 200 150 200 136.03125 18.625 0"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

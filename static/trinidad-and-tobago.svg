@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="150px" viewBox="0 0 200 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>tt</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="South-America" transform="translate(-730.000000, -450.000000)">
+            <g id="tt" transform="translate(730.000000, 450.000000)">
+                <polygon id="Path" fill="#FFFFFF" points="0 0 200 0 200 150 0 150"></polygon>
+                <path d="M144.90625,150 L0,0.3125 L0,149.9375 L144.90625,150 Z M55.09375,0 L200,149.6875 L200,0.0625 L55.09375,0 Z" id="Shape" fill="#E00000"></path>
+                <polygon id="Path" fill="#000000" points="8.65625 0.0625 45.71875 0.0625 192.03125 149.84375 153.8125 149.84375"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

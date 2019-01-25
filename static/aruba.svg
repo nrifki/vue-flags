@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="146px" viewBox="0 0 200 146" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>aw</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 200 0 200 150 0 150"></polygon>
+    </defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="South-America" transform="translate(-290.000000, -50.000000)">
+            <g id="aw" transform="translate(290.000000, 50.000000)">
+                <g id="Clipped">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Path"></g>
+                    <g id="Group" mask="url(#mask-2)">
+                        <polygon id="Path" fill="#3399CC" points="0 0 0 145.138889 200 145.138889 200 0"></polygon>
+                        <path d="M0,96.5277778 L0,104.62963 L200,104.62963 L200,96.5277778 L0,96.5277778 Z M0,112.731481 L0,120.833333 L200,120.833333 L200,112.731481 L0,112.731481 Z" id="Shape" fill="#FFFF00" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+                <polygon id="Path" stroke="#FFFFFF" stroke-width="1.5" fill="#CC0000" points="29.0167338 30.2868964 13.8888889 34.5988582 28.9590673 38.7102636 32.9957222 54.4338824 37.013155 38.7102636 52.0833333 34.49858 37.013155 30.3069521 32.9765 14.5833333"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
