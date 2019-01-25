@@ -14,9 +14,12 @@
   "author": "Nada Rifki",
   "license": "MIT",
   "devDependencies": {
+    "bili": "^3.4.2",
     "node-sass": "^4.11.0",
     "pug": "^2.0.3",
     "pug-plain-loader": "^1.0.0",
-    "sass-loader": "^7.1.0"
+    "rollup-plugin-vue": "^4.6.1",
+    "sass-loader": "^7.1.0",
+    "vue-template-compiler": "^2.5.22"
   }
 }
