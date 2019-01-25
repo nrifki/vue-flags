@@ -2,10 +2,10 @@
   "private": false,
   "name": "vue-flags",
   "version": "0.0.1",
-  "description": "An extremly lightweight Vue.js library of flags from all over the world. 🌍",
+  "description": "An extremely lightweight Vue.js library of flags from all over the world. 🌍",
   "main": "./dist/index.cjs.js",
   "scripts": {
-    "dev": "vue serve NiceHandsomeButton.vue",
+    "dev": "vue serve src/VueFlag.vue",
     "build": "bili --name index --plugin vue --vue.css false"
   },
   "files": [

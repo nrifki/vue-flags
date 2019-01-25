@@ -5,13 +5,13 @@
       "vue-flag",
       "vue-flag--" + size,
       {
-        "vue-flag--": border,
-        "vue-flag--": circular,
-        "vue-flag--": clickable
+        "vue-flag--border": border,
+        "vue-flag--circular": circular,
+        "vue-flag--clickable": clickable
       }
     ]`
     :style=`{
-      backgroundImage: "url(/static/" + flag + ".svg)"
+      backgroundImage: "url(/" + flag + ".svg)"
     }`
   )
 </template>
@@ -33,8 +33,7 @@ export default {
     },
     flag: {
       type: String,
-      default: null,
-      required: true
+      default: "france"
     },
     size: {
       type: String,
@@ -56,9 +55,14 @@ export default {
 </script>
 
 <style lang="scss">
-$c: "vue-flag";
+$c: ".vue-flag";
 
 #{$c} {
+  display: inline-block;
+  background-size: cover;
+  background-position: center center;
+  overflow: hidden;
+
   // --> SIZES <--
 
   &--small {
@@ -85,6 +89,10 @@ $c: "vue-flag";
 
   &--border {
     border: 1px solid #ffffff;
+  }
+
+  &--circular {
+    border-radius: 100px;
   }
 
   &--clickable {
