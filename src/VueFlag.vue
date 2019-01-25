@@ -86,5 +86,14 @@ $c: "vue-flag";
   &--border {
     border: 1px solid #ffffff;
   }
+
+  &--clickable {
+    cursor: pointer;
+
+    &:focus {
+      box-shadow: 0 0 0 2px #1c2532, 0 0 0 3px #0194ef;
+      transition: box-shadow ease-in-out 0s;
+    }
+  }
 }
 </style>
