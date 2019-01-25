@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="150px" viewBox="0 0 200 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>tr</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Asia" transform="translate(-180.000000, -1650.000000)">
+            <g id="tr" transform="translate(180.000000, 1650.000000)">
+                <polygon id="Path" fill="#E30A17" points="0 0 200 0 200 150 0 150"></polygon>
+                <path d="M127.1875,77.34375 C127.1875,98.03125 110.125,114.8125 89.0625,114.8125 C68,114.8125 50.9375,98.03125 50.9375,77.3125 C50.9375,56.59375 68,39.875 89.0625,39.875 C110.125,39.875 127.1875,56.65625 127.1875,77.34375 Z" id="Path" fill="#FFFFFF"></path>
+                <path d="M129.0625,77.34375 C129.0625,93.90625 115.4375,107.3125 98.59375,107.3125 C81.75,107.3125 68.09375,93.875 68.09375,77.3125 C68.09375,60.75 81.75,47.375 98.59375,47.375 C115.4375,47.375 129.09375,60.78125 129.09375,77.34375 L129.0625,77.34375 Z" id="Path" fill="#E30A17"></path>
+                <polygon id="Path" fill="#FFFFFF" points="134.59375 59.84375 134.28125 73.6875 121.375 77.1875 134.125 81.71875 133.8125 94.4375 142.09375 84.5 154.65625 88.875 147.40625 78.21875 156.25 67.625 142.65625 71.375 134.59375 59.8125"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

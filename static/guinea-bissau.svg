@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="199px" height="149px" viewBox="0 0 199 149" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>gw</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Africa" transform="translate(-950.000000, -650.000000)">
+            <g id="gw" transform="translate(950.000000, 650.000000)">
+                <polygon id="Path" fill="#CE1126" points="0 0 68 0 68 149 0 149"></polygon>
+                <polygon id="Path" fill="#FCD116" points="68 0 199 0 199 75 68 75"></polygon>
+                <polygon id="Path" fill="#009E49" points="68 75 199 75 199 149 68 149"></polygon>
+                <g id="b" transform="translate(23.000000, 48.000000)" fill="#000000">
+                    <polyline id="a" transform="translate(12.612994, 13.234046) rotate(18.000000) translate(-12.612994, -13.234046) " points="7.02683359 1.31065803 6.95471109 25.157434 18.271276 25.1043641"></polyline>
+                    <g id="a-link" transform="translate(9.500000, 13.500000) scale(-1, 1) translate(-9.500000, -13.500000) ">
+                        <polyline id="a" transform="translate(9.612994, 13.234046) rotate(18.000000) translate(-9.612994, -13.234046) " points="4.02683359 1.31065803 3.95471109 25.157434 15.271276 25.1043641"></polyline>
+                    </g>
+                </g>
+                <g id="b-link" transform="translate(42.483223, 68.806223) rotate(72.000000) translate(-42.483223, -68.806223) translate(30.983223, 55.306223)" fill="#000000">
+                    <g id="b" transform="translate(0.000000, -0.000000)">
+                        <polyline id="a" transform="translate(13.519721, 13.383791) rotate(18.000000) translate(-13.519721, -13.383791) " points="7.61491352 1.30906233 8.03816123 25.2468967 19.4245279 25.4585205"></polyline>
+                        <g id="a-link" transform="translate(9.770424, 13.500000) scale(-1, 1) translate(-9.770424, -13.500000) translate(0.270424, -0.000000)">
+                            <polyline id="a" transform="translate(9.519721, 13.383791) rotate(18.000000) translate(-9.519721, -13.383791) " points="3.61491352 1.30906233 4.03816123 25.2468967 15.4245279 25.4585205"></polyline>
+                        </g>
+                    </g>
+                </g>
+                <g id="b-link" transform="translate(39.026878, 80.763199) rotate(144.000000) translate(-39.026878, -80.763199) translate(27.526878, 67.263199)" fill="#000000">
+                    <g id="b">
+                        <polyline id="a" transform="translate(13.519721, 13.383791) rotate(18.000000) translate(-13.519721, -13.383791) " points="7.61491352 1.30906233 8.03816123 25.2468967 19.4245279 25.4585205"></polyline>
+                        <g id="a-link" transform="translate(9.770424, 13.500000) scale(-1, 1) translate(-9.770424, -13.500000) translate(0.270424, 0.000000)">
+                            <polyline id="a" transform="translate(9.519721, 13.383791) rotate(18.000000) translate(-9.519721, -13.383791) " points="3.61491352 1.30906233 4.03816123 25.2468967 15.4245279 25.4585205"></polyline>
+                        </g>
+                    </g>
+                </g>
+                <g id="b-link" transform="translate(27.352711, 80.922150) rotate(-144.000000) translate(-27.352711, -80.922150) translate(15.852711, 67.422150)" fill="#000000">
+                    <g id="b" transform="translate(0.000000, -0.000000)">
+                        <polyline id="a" transform="translate(13.519721, 13.383791) rotate(18.000000) translate(-13.519721, -13.383791) " points="7.61491352 1.30906233 8.03816123 25.2468967 19.4245279 25.4585205"></polyline>
+                        <g id="a-link" transform="translate(9.770424, 13.500000) scale(-1, 1) translate(-9.770424, -13.500000) translate(0.270424, 0.000000)">
+                            <polyline id="a" transform="translate(9.519721, 13.383791) rotate(18.000000) translate(-9.519721, -13.383791) " points="3.61491352 1.30906233 4.03816123 25.2468967 15.4245279 25.4585205"></polyline>
+                        </g>
+                    </g>
+                </g>
+                <g id="b-link" transform="translate(23.594024, 69.063411) rotate(-72.000000) translate(-23.594024, -69.063411) translate(12.094024, 55.563411)" fill="#000000">
+                    <g id="b" transform="translate(0.000000, 0.000000)">
+                        <polyline id="a" transform="translate(13.519721, 13.383791) rotate(18.000000) translate(-13.519721, -13.383791) " points="7.61491352 1.30906233 8.03816123 25.2468967 19.4245279 25.4585205"></polyline>
+                        <g id="a-link" transform="translate(9.770424, 13.500000) scale(-1, 1) translate(-9.770424, -13.500000) translate(0.270424, 0.000000)">
+                            <polyline id="a" transform="translate(9.519721, 13.383791) rotate(18.000000) translate(-9.519721, -13.383791) " points="3.61491352 1.30906233 4.03816123 25.2468967 15.4245279 25.4585205"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
