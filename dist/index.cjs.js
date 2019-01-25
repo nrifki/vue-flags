@@ -34,8 +34,7 @@ var script = {
     },
     flag: {
       type: String,
-      default: null,
-      required: true
+      default: "france"
     },
     size: {
       type: String,
@@ -189,19 +188,19 @@ var __vue_render__ = function () {var _vm=this;var _h=_vm.$createElement;var _c=
     "vue-flag",
     "vue-flag--" + _vm.size,
     {
-      "vue-flag--": _vm.border,
-      "vue-flag--": _vm.circular,
-      "vue-flag--": _vm.clickable
+      "vue-flag--border": _vm.border,
+      "vue-flag--circular": _vm.circular,
+      "vue-flag--clickable": _vm.clickable
     }
   ],style:({
-    backgroundImage: "url(/static/" + _vm.flag + ".svg)"
+    backgroundImage: "url(/" + _vm.flag + ".svg)"
   }),on:{"click":_vm.onClick}})};
 var __vue_staticRenderFns__ = [];
 
   /* style */
   const __vue_inject_styles__ = function (inject) {
     if (!inject) return
-    inject("data-v-76a89140_0", { source: "vue-flag--small{width:40px;height:25px}vue-flag--smallvue-flag--circular{width:25px;height:25px}vue-flag--large{width:80px;height:50px}vue-flag--largevue-flag--circular{width:50px;height:50px}vue-flag--border{border:1px solid #fff}vue-flag--clickable{cursor:pointer}vue-flag--clickable:focus{box-shadow:0 0 0 2px #1c2532,0 0 0 3px #0194ef;transition:box-shadow ease-in-out 0s}", map: undefined, media: undefined });
+    inject("data-v-d5869fb6_0", { source: ".vue-flag{display:inline-block;background-size:cover;background-position:center center;overflow:hidden}.vue-flag--small{width:40px;height:25px}.vue-flag--small.vue-flag--circular{width:25px;height:25px}.vue-flag--large{width:80px;height:50px}.vue-flag--large.vue-flag--circular{width:50px;height:50px}.vue-flag--border{border:1px solid #fff}.vue-flag--circular{border-radius:100px}.vue-flag--clickable{cursor:pointer}.vue-flag--clickable:focus{box-shadow:0 0 0 2px #1c2532,0 0 0 3px #0194ef;transition:box-shadow ease-in-out 0s}", map: undefined, media: undefined });
 
   };
   /* scoped */
