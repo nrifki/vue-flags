@@ -2,14 +2,15 @@
   "private": false,
   "name": "vue-flags",
   "version": "0.0.1",
-  "description": "An extremly lightweight Vue.js library of flags from all over the world. 🌍 ( 1 Ko 🤩 )",
+  "description": "An extremly lightweight Vue.js library of flags from all over the world. 🌍",
   "main": "./dist/index.cjs.js",
   "scripts": {
     "dev": "vue serve NiceHandsomeButton.vue",
     "build": "bili --name index --plugin vue --vue.css false"
   },
   "files": [
-    "dist/*"
+    "dist/*",
+    "static"
   ],
   "author": "Nada Rifki",
   "license": "MIT",
