@@ -80,5 +80,11 @@ $c: "vue-flag";
       height: 50px;
     }
   }
+
+  // --> BOOLEANS <--
+
+  &--border {
+    border: 1px solid #ffffff;
+  }
 }
 </style>
