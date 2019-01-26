@@ -4,7 +4,7 @@
   "description": "An extremely lightweight Vue.js library of flags from all over the world. 🌍",
   "author": "Nada Rifki",
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./dist/index.cjs.js",
   "scripts": {
     "serve": "vue-cli-service serve",
