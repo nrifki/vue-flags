@@ -1,26 +1,59 @@
 {
   "private": false,
   "name": "vue-flags",
-  "version": "0.0.1",
   "description": "An extremely lightweight Vue.js library of flags from all over the world. 🌍",
-  "main": "./dist/index.cjs.js",
-  "scripts": {
-    "dev": "vue serve src/VueFlag.vue",
-    "build": "bili --name index --plugin vue --vue.css false"
-  },
-  "files": [
-    "dist/*",
-    "static"
-  ],
   "author": "Nada Rifki",
   "license": "MIT",
+  "version": "0.0.1",
+  "main": "./dist/index.cjs.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "bili --name index --plugin vue --vue.css false",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "vue": "^2.5.21"
+  },
   "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.3.0",
+    "@vue/cli-plugin-eslint": "^3.3.0",
+    "@vue/cli-service": "^3.3.0",
+    "babel-eslint": "^10.0.1",
     "bili": "^3.4.2",
+    "eslint": "^5.8.0",
+    "eslint-plugin-vue": "^5.0.0",
     "node-sass": "^4.11.0",
     "pug": "^2.0.3",
     "pug-plain-loader": "^1.0.0",
     "rollup-plugin-vue": "^4.6.1",
     "sass-loader": "^7.1.0",
-    "vue-template-compiler": "^2.5.22"
-  }
+    "vue-template-compiler": "^2.5.21"
+  },
+  "files": [
+    "dist/*"
+  ],
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "rules": {},
+    "parserOptions": {
+      "parser": "babel-eslint"
+    }
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
 }

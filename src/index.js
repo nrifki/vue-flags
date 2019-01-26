@@ -1,4 +1,4 @@
-import VueFlag from "./VueFlag.vue";
+import VueFlag from "./components/VueFlag.vue";
 
 export default {
   install(Vue, options) {

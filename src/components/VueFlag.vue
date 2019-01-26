@@ -11,7 +11,7 @@
       }
     ]`
     :style=`{
-      backgroundImage: "url(/" + flag + ".svg)"
+      backgroundImage: "url(./flags/" + flag + ".svg)"
     }`
   )
 </template>
