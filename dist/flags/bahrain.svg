@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="150px" viewBox="0 0 200 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>bh</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 200 0 200 150 0 150"></polygon>
+    </defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Asia" transform="translate(-1170.000000, -50.000000)">
+            <g id="bh" transform="translate(1170.000000, 50.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Path"></g>
+                <g id="Group" mask="url(#mask-2)">
+                    <g transform="translate(-10.312500, 0.000000)" id="Path">
+                        <polygon fill="#E10011" points="0.15625 0 225.15625 0 225.15625 150 0.15625 150"></polygon>
+                        <polyline fill="#FFFFFF" points="46.03125 149.9375 0.15625 150 0.15625 0 45.78125 0 75.25 9.5 46.03125 18.71875 75.25 28.25 46.03125 37.46875 75.25 47 46.03125 56.21875 75.25 65.75 46.03125 74.96875 75.25 84.5 46.03125 93.71875 75.25 103.25 46.03125 112.46875 75.25 122 46.03125 131.21875 75.25 140.75 46.03125 149.96875"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

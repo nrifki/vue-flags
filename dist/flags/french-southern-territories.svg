@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="150px" viewBox="0 0 200 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>tf</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Africa" transform="translate(-510.000000, -1650.000000)">
+            <g id="tf" transform="translate(510.000000, 1650.000000)">
+                <polygon id="Path" fill="#002395" points="0 0 200 0 200 150 0 150"></polygon>
+                <polygon id="Path" fill="#FFFFFF" points="0 0 91.5 0 91.5 61.5 0 61.5"></polygon>
+                <polygon id="Path" fill="#002395" points="0 0 30 0 30 60 0 60"></polygon>
+                <polygon id="Path" fill="#ED2939" points="60 0 90 0 90 60 60 60"></polygon>
+                <path d="M133.125,68.625 L137.9375,76.3125 L151.6875,76.3125 L151.6875,103.125 L141.375,87 L127.5,109.125 L134.25,109.125 L141.375,96.375 L156,122.625 L170.625,96.375 L177.75,109.125 L184.5,109.125 L170.625,87 L160.3125,103.125 L160.3125,88.3125 L166.5,88.3125 L171.09375,81 L160.3125,81 L160.3125,76.3125 L174.0625,76.3125 L178.875,68.625 L133.125,68.625 Z M149.25,101.4375 L134.25,101.4375 L134.25,106.6875 L149.25,106.6875 L149.25,101.4375 Z M177.75,101.4375 L162.75,101.4375 L162.75,106.6875 L177.75,106.6875 L177.75,101.4375 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <g id="a-link" transform="translate(148.500000, 127.875000)" fill="#FFFFFF" fill-rule="nonzero">
+                    <polygon id="a" points="7.5 0 12.1125 14.25 0 5.4375 15 5.4375 2.8875 14.25"></polygon>
+                </g>
+                <g id="a-link" transform="translate(131.625000, 115.125000)" fill="#FFFFFF" fill-rule="nonzero">
+                    <polygon id="a" points="7.5 0 12.1125 14.25 0 5.4375 15 5.4375 2.8875 14.25"></polygon>
+                </g>
+                <g id="a-link" transform="translate(165.375000, 115.125000)" fill="#FFFFFF" fill-rule="nonzero">
+                    <polygon id="a" points="7.5 0 12.1125 14.25 0 5.4375 15 5.4375 2.8875 14.25"></polygon>
+                </g>
+                <g id="a-link" transform="translate(117.375000, 77.250000)" fill="#FFFFFF" fill-rule="nonzero">
+                    <polygon id="a" points="7.5 0 12.1125 14.25 0 5.4375 15 5.4375 2.8875 14.25"></polygon>
+                </g>
+                <g id="a-link" transform="translate(179.625000, 77.250000)" fill="#FFFFFF" fill-rule="nonzero">
+                    <polygon id="a" points="7.5 0 12.1125 14.25 0 5.4375 15 5.4375 2.8875 14.25"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

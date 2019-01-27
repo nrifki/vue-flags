@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="150px" viewBox="0 0 200 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>gy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="South-America" transform="translate(-1170.000000, -250.000000)">
+            <g id="gy" transform="translate(1170.000000, 250.000000)">
+                <polygon id="Path" fill="#399408" points="0.75 0 200 0 200 150 0.75 150"></polygon>
+                <path d="M0.0625,0 C-0.21875,0 193.6875,75.46875 193.6875,75.46875 L0,149.9375 L0.0625,0 Z" id="Path" fill="#FFFFFF"></path>
+                <path d="M0.09375,6.3125 C1.15625,6.3125 174.78125,74.40625 173.8125,75.0625 L0.59375,144.75 L0.09375,6.34375 L0.09375,6.3125 Z" id="Path" fill="#FFDE08"></path>
+                <path d="M0.59375,0.25 C1.15625,0.25 91.5,75.53125 91.5,75.53125 L0.5625,149.0625 L0.5625,0.25 L0.59375,0.25 Z" id="Path" fill="#000000"></path>
+                <path d="M0.09375,10.59375 C0.59375,5.90625 81.625,75.71875 81.625,75.71875 L0.0625,141.15625 L0.0625,10.59375 L0.09375,10.59375 Z" id="Path" fill="#DE2110"></path>
+            </g>
+        </g>
+    </g>
+</svg>

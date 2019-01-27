@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="150px" viewBox="0 0 200 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>qa</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Asia" transform="translate(-950.000000, -1250.000000)">
+            <g id="qa" transform="translate(950.000000, 1250.000000)">
+                <polygon id="Path" fill="#8D1B3D" points="0 0 200 0 200 150 0 150"></polygon>
+                <polygon id="Path" fill="#FFFFFF" points="0 0 0 150 49.5 150 80.0625 141.65625 49.5 133.34375 80.03125 125 49.5 116.65625 80.03125 108.34375 49.5 100 80.0625 91.65625 49.5 83.34375 80.03125 75 49.5 66.65625 80.03125 58.34375 49.5 50 80.0625 41.65625 49.5 33.34375 80.03125 25 49.5 16.65625 80.0625 8.34375 49.46875 0"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

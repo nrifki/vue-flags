@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="150px" viewBox="0 0 200 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>dk</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Europe" transform="translate(-70.000000, -450.000000)">
+            <g id="dk" transform="translate(70.000000, 450.000000)">
+                <polygon id="Path" fill="#C8102E" points="0 0 199.719189 0 199.719189 150 0 150"></polygon>
+                <polygon id="Path" fill="#FFFFFF" points="64.1809672 0 85.5850234 0 85.5850234 150 64.1809672 150"></polygon>
+                <polygon id="Path" fill="#FFFFFF" points="0 64.28125 199.719189 64.28125 199.719189 85.71875 0 85.71875"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

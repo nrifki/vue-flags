@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="199px" height="150px" viewBox="0 0 199 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>tz</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 200 0 200 150 0 150"></polygon>
+    </defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Africa" transform="translate(-1171.000000, -1649.000000)">
+            <g id="tz" transform="translate(1170.000000, 1649.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Path"></g>
+                <g id="Group" mask="url(#mask-2)">
+                    <g transform="translate(0.500000, -2.000000)">
+                        <polygon id="Path" fill="#0099FF" fill-rule="evenodd" points="0.5 0.540496162 200.5 0.540496162 200.5 151.540496 0.5 151.540496"></polygon>
+                        <polygon id="Path" fill="#009900" fill-rule="evenodd" points="0.5 0.540496162 200.5 0.540496162 0.5 151.540496"></polygon>
+                        <polygon id="Path" fill="#000000" fill-rule="evenodd" points="0.5 151.540496 44.9444444 151.540496 200.5 31.9988295 200.5 0.540496162 156.055556 0.540496162 0.5 120.082163"></polygon>
+                        <path d="M0.5,115.677996 L152.944444,0.540496162 L167.944444,0.540496162 L0.5,127.002996 L0.5,115.677996 Z M33.0555556,151.540496 L200.5,25.0779962 L200.5,36.4029962 L48.0555556,151.540496 L33.0555556,151.540496 Z" id="Shape" fill="#FFFF00" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

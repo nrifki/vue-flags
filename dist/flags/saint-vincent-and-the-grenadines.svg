@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="150px" viewBox="0 0 200 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>vc</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="North-America" transform="translate(-950.000000, -1050.000000)">
+            <g id="vc" transform="translate(950.000000, 1050.000000)">
+                <polygon id="Path" fill="#F4F100" points="0 0 200 0 200 150 0 150"></polygon>
+                <polygon id="Path" fill="#199A00" points="153.125 0 200 0 200 150 153.125 150"></polygon>
+                <polygon id="Path" fill="#0058AA" points="0 0 46.875 0 46.875 150 0 150"></polygon>
+                <path d="M81.03125,40.625 L66.53125,62.90625 L80.5,86.15625 L94.1875,63.125 L81.03125,40.625 Z M118.90625,40.625 L104.4375,62.90625 L118.40625,86.15625 L132.09375,63.125 L118.90625,40.625 Z M99.78125,71.03125 L85.28125,93.34375 L99.28125,116.59375 L112.96875,93.5625 L99.78125,71.0625 L99.78125,71.03125 Z" id="Shape" fill="#199A00" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

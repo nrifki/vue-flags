@@ -1,3 +1,8 @@
+/*!
+ * vue-flags v0.0.2
+ * (c) 2019-present Nada Rifki
+ * Released under the MIT License.
+ */
 'use strict';
 
 //

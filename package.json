@@ -4,14 +4,15 @@
   "description": "An extremely lightweight Vue.js library of flags from all over the world. 🌍",
   "author": "Nada Rifki",
   "license": "MIT",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "./dist/index.cjs.js",
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "bili --name index --plugin vue --vue.css false",
+    "build": "bili --vue.css false",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "rollup-plugin-copy": "^0.2.3",
     "vue": "^2.5.21"
   },
   "devDependencies": {

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="141px" viewBox="0 0 200 141" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>ag</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.0878477306 0 200 0 200 141 0.0878477306 141"></polygon>
+    </defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="North-America" transform="translate(-70.000000, -50.000000)">
+            <g id="ag" transform="translate(70.000000, 50.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Path"></g>
+                <g id="Group" mask="url(#mask-2)">
+                    <g transform="translate(-5.000000, 0.000000)">
+                        <polygon id="Path" fill="#FFFFFF" fill-rule="evenodd" points="0 0 209.54429 0 209.54429 140.487671 0 140.487671"></polygon>
+                        <polygon id="Path" fill="#000000" fill-rule="evenodd" points="0.466691069 0.164794922 209.352123 0.164794922 209.352123 59.5184326 0.439238653 59.5184326"></polygon>
+                        <polygon id="Path" fill="#0061FF" fill-rule="evenodd" points="38.7902635 55.8105469 177.424963 55.8105469 177.424963 87.0666504 38.7902635 87.0666504"></polygon>
+                        <path d="M209.407028,0.494384766 L209.407028,140.625 L104.868228,140.625 L209.407028,0.466918945 L209.407028,0.494384766 Z M0.356881406,0.494384766 L0.356881406,140.625 L104.868228,140.625 L0.356881406,0.466918945 L0.356881406,0.494384766 Z" id="Shape" fill="#E20000" fill-rule="nonzero"></path>
+                        <polygon id="Path" fill="#FFD600" fill-rule="evenodd" points="153.843338 55.8380127 132.869693 50.5371094 150.68631 37.0788574 128.806735 40.2099609 140.062225 21.1212158 120.653367 32.3822021 124.167277 10.1623535 111.01757 27.6855469 105.719253 7.36083984 99.7620791 28.3172607 86.6398243 10.4644775 90.4008053 33.31604 70.9644949 21.4233398 82.2199854 40.512085 60.9718155 37.0788574 78.4864568 50.2075195 56.5519766 55.8380127 153.815886 55.8380127"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

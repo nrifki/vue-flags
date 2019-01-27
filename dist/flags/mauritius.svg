@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="150px" viewBox="0 0 200 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>mu</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Africa" transform="translate(-510.000000, -1050.000000)">
+            <g id="mu" transform="translate(510.000000, 1050.000000)">
+                <polygon id="Path" fill="#00A04D" points="0 112.5 200 112.5 200 150 0 150"></polygon>
+                <polygon id="Path" fill="#151F6D" points="0 37.5 200 37.5 200 75 0 75"></polygon>
+                <polygon id="Path" fill="#EE2737" points="0 0 200 0 200 37.5 0 37.5"></polygon>
+                <polygon id="Path" fill="#FFCD00" points="0 75 200 75 200 112.5 0 112.5"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

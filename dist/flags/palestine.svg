@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="141px" viewBox="0 0 200 141" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>ps</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="-1.13686838e-13 0 199.912152 0 199.912152 140.926794 -1.13686838e-13 140.926794"></polygon>
+    </defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Asia" transform="translate(-730.000000, -1250.000000)">
+            <g id="ps" transform="translate(730.000000, 1250.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Path"></g>
+                <g id="Group" mask="url(#mask-2)">
+                    <g transform="translate(-0.592972, 0.000000)">
+                        <g>
+                            <polygon id="Path" fill="#000000" points="0 0 281.112738 0 281.112738 46.8612738 0 46.8612738"></polygon>
+                            <polygon id="Path" fill="#FFFFFF" points="0 46.8612738 281.112738 46.8612738 281.112738 93.6950952 0 93.6950952"></polygon>
+                            <polygon id="Path" fill="#009900" points="0 93.6950952 281.112738 93.6950952 281.112738 140.556369 0 140.556369"></polygon>
+                            <polygon id="Path" fill="#FF0000" points="0 122.556369 105.556369 69.7781845 0 17"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

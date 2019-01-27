@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="141px" viewBox="0 0 200 141" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>kp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="4.54747351e-13 0.0292825769 199.88287 0.0292825769 199.88287 140.926794 0.0292825769 140.926794"></polygon>
+    </defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Asia" transform="translate(-1170.000000, -650.000000)">
+            <g id="kp" transform="translate(1170.000000, 650.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Path"></g>
+                <g id="Group" mask="url(#mask-2)">
+                    <g transform="translate(-23.737534, -0.029283)" id="Path">
+                        <polygon stroke="#000000" stroke-width="0.93768" fill="#FFFFFF" points="233.93949 140.446067 0 140.446067 0 0.137288433 233.93949 0.137288433"></polygon>
+                        <polygon stroke="none" fill="#3E5698" points="233.93949 115.047707 0 115.047707 0 140.446067 233.93949 140.446067"></polygon>
+                        <polygon stroke="none" fill="#C60000" points="233.93949 109.171762 0 109.171762 0 31.4115936 233.93949 31.4115936"></polygon>
+                        <polygon stroke="none" fill="#3E5698" points="233.93949 0.16474612 0 0.16474612 0 25.5356486 233.93949 25.5356486"></polygon>
+                        <path d="M111.066343,70.2916779 C111.066343,87.7273089 96.5137687,101.868018 78.5015262,101.868018 C60.4892837,101.868018 45.9367098,87.7273089 45.9367098,70.2916779 C45.9367098,52.8560469 60.4892837,38.7702536 78.5015262,38.7702536 C96.486311,38.7702536 111.066343,52.8835045 111.066343,70.3191356 L111.066343,70.2916779 Z" stroke="none" fill="#FFFFFF"></path>
+                        <polygon stroke="none" fill="#C40000" points="69.1384551 74.3005001 53.4875736 63.1252217 72.9825312 63.0703063 79.2154261 44.8384023 85.008998 62.9879332 104.503955 62.8781025 88.6059549 74.1906694 94.4544422 92.3402003 78.8035608 81.1649218 62.8781025 92.5049464"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

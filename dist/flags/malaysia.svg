@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="150px" viewBox="0 0 200 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>my</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Asia" transform="translate(-950.000000, -1050.000000)">
+            <g id="my" transform="translate(950.000000, 1050.000000)">
+                <polygon id="Path" fill="#CC0001" points="0 0 200 0 200 150 0 150"></polygon>
+                <polygon id="a" fill="#FFFFFF" points="0 139.3125 200 139.3125 200 150 0 150"></polygon>
+                <g id="a-link" transform="translate(0.000000, 117.625000)" fill="#FFFFFF">
+                    <polygon id="a" points="0 0.25 200 0.25 200 10.9375 0 10.9375"></polygon>
+                </g>
+                <g id="a-link" transform="translate(0.000000, 96.187500)" fill="#FFFFFF">
+                    <polygon id="a" points="0 0.25 200 0.25 200 10.9375 0 10.9375"></polygon>
+                </g>
+                <g id="a-link" transform="translate(0.000000, 74.750000)" fill="#FFFFFF">
+                    <polygon id="a" points="0 0.25 200 0.25 200 10.9375 0 10.9375"></polygon>
+                </g>
+                <g id="a-link" transform="translate(0.000000, 53.343750)" fill="#FFFFFF">
+                    <polygon id="a" points="0 0.25 200 0.25 200 10.9375 0 10.9375"></polygon>
+                </g>
+                <g id="a-link" transform="translate(0.000000, 31.875000)" fill="#FFFFFF">
+                    <polygon id="a" points="0 0.25 200 0.25 200 10.9375 0 10.9375"></polygon>
+                </g>
+                <g id="a-link" transform="translate(0.000000, 10.468750)" fill="#FFFFFF">
+                    <polygon id="a" points="0 0.25 200 0.25 200 10.9375 0 10.9375"></polygon>
+                </g>
+                <polygon id="Path" fill="#010066" points="0 0 116.4375 0 116.4375 85.71875 0 85.71875"></polygon>
+                <g id="Group" transform="translate(18.750000, 15.000000)" fill="#FFCC00">
+                    <path d="M28.03125,0.15625 C12.71875,0.15625 0.25,12.5625 0.25,27.84375 C0.266557377,35.2035134 3.20610085,42.2552605 8.42196043,47.447678 C13.63782,52.6400955 20.7027367,55.5478447 28.0625,55.53125 C33.3785839,55.5414915 38.5854839,54.0228123 43.0625,51.15625 C40.4666698,52.0389888 37.7417825,52.4825751 35,52.46875 C21.4294215,52.4860372 10.4094759,41.5080457 10.375,27.9375 C10.3789918,19.8812773 14.3283938,12.3377965 20.9469935,7.74466278 C27.5655932,3.15152907 36.0141157,2.09117721 43.5625,4.90625 C38.9758129,1.8076949 33.5664766,0.153330467 28.03125,0.15625 Z" id="Path"></path>
+                    <polygon id="Path" points="74.09375 42.25 62.40625 36.15625 65.84375 48.65625 58.03125 38.1875 55.59375 50.90625 53.1875 38.1875 45.34375 48.625 48.84375 36.125 37.09375 42.21875 45.84375 32.4375 32.5625 32.9375 44.75 27.84375 32.5625 22.6875 45.84375 23.21875 37.15625 13.4375 48.84375 19.53125 45.40625 7.03125 53.21875 17.5 55.65625 4.78125 58.0625 17.5 65.90625 7.09375 62.40625 19.5625 74.15625 13.5 65.40625 23.25 78.6875 22.75 66.5 27.875 78.6875 33.03125 65.40625 32.46875"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

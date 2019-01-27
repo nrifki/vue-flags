@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="150px" viewBox="0 0 200 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>mv</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Asia" transform="translate(-730.000000, -1050.000000)">
+            <g id="mv" transform="translate(730.000000, 1050.000000)">
+                <polygon id="Path" fill="#D21034" points="0 0 200 0 200 150 0 150"></polygon>
+                <polygon id="Path" fill="#007E3A" points="37.5 37.5 162.5 37.5 162.5 112.5 37.5 112.5"></polygon>
+                <circle id="Oval" fill="#FFFFFF" cx="109.375" cy="75" r="25"></circle>
+                <circle id="Oval" fill="#007E3A" cx="118.75" cy="75" r="25"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
