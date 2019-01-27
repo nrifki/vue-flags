@@ -25,6 +25,7 @@
     "node-sass": "^4.11.0",
     "pug": "^2.0.3",
     "pug-plain-loader": "^1.0.0",
+    "rollup-plugin-copy-assets": "^1.1.0",
     "rollup-plugin-vue": "^4.6.1",
     "sass-loader": "^7.1.0",
     "vue-template-compiler": "^2.5.21"
