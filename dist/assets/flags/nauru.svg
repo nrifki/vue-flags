@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="141px" viewBox="0 0 200 141" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>nr</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.0878477306 0 200 0 200 149.926794 0.0878477306 149.926794"></polygon>
+    </defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Oceania" transform="translate(-1170.000000, -250.000000)">
+            <g id="nr" transform="translate(1170.000000, 250.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Path"></g>
+                <g id="Group" mask="url(#mask-2)">
+                    <g transform="translate(-21.000000, 0.000000)" id="Path">
+                        <polygon fill="#002170" points="0 0 281.112738 0 281.112738 140.556369 0 140.556369"></polygon>
+                        <polygon fill="#FFB20D" points="0 64.2661054 281.112738 64.2661054 281.112738 76.317716 0 76.317716"></polygon>
+                        <polygon fill="#FFFFFF" points="82.8513909 120.241581 73.7920937 111.182284 70.90959 123.645681 67.6153001 111.292094 58.8579795 120.625915 62.1797218 108.272328 49.9633968 111.978404 59.022694 102.919107 46.5592972 100.009151 58.9128843 96.7148609 49.579063 87.9849927 61.9326501 91.2792826 58.1991215 79.0629575 67.2584187 88.1222548 70.1683748 75.658858 73.4626647 88.0124451 82.1925329 78.6786237 78.898243 91.0322108 91.1145681 87.3261347 82.0552709 96.3854319 94.5186676 99.2679356 82.1650805 102.562225 91.4989019 111.346999 79.1453148 107.997804"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

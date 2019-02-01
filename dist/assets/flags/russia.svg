@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="150px" viewBox="0 0 200 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>ru</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Europe" transform="translate(-510.000000, -1650.000000)">
+            <g id="ru" transform="translate(510.000000, 1650.000000)">
+                <polygon id="Path" fill="#FFFFFF" points="0 0 200 0 200 150 0 150"></polygon>
+                <polygon id="Path" fill="#0039A6" points="0 50 200 50 200 150 0 150"></polygon>
+                <polygon id="Path" fill="#D52B1E" points="0 100 200 100 200 150 0 150"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

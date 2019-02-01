@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="141px" viewBox="0 0 200 141" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>sd</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="-1.13686838e-13 0 199.912152 0 199.912152 141 -1.13686838e-13 141"></polygon>
+    </defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Africa" transform="translate(-1170.000000, -1249.000000)">
+            <g id="sd" transform="translate(1170.000000, 1249.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Path"></g>
+                <g id="Group" mask="url(#mask-2)">
+                    <polygon id="Path" fill="#000000" points="0 93.7408447 281.112738 93.7408447 281.112738 140.625 0 140.625"></polygon>
+                    <polygon id="Path" fill="#FFFFFF" points="0 46.8566895 281.112738 46.8566895 281.112738 93.7408447 0 93.7408447"></polygon>
+                    <polygon id="Path" fill="#FF0000" points="0 0 281.332357 0 281.332357 46.8841553 0 46.8841553"></polygon>
+                    <polygon id="Path" fill="#009A00" points="0 0 0 140.625 93.6950952 70.3125"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

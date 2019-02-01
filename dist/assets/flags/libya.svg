@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="144px" viewBox="0 0 200 144" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>ly</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.209580838 0 199.790419 0 199.790419 143.700599 0.209580838 143.700599"></polygon>
+    </defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Africa" transform="translate(-730.000000, -850.000000)">
+            <g id="ly" transform="translate(730.000000, 850.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Path"></g>
+                <g id="Group" mask="url(#mask-2)">
+                    <g transform="translate(-44.000000, 0.000000)">
+                        <polygon id="Path" fill="#239E46" fill-rule="evenodd" points="0 0 287.42515 0 287.42515 143.712575 0 143.712575"></polygon>
+                        <polygon id="Path" fill="#000000" fill-rule="evenodd" points="0 0 287.42515 0 287.42515 107.784431 0 107.784431"></polygon>
+                        <polygon id="Path" fill="#E70013" fill-rule="evenodd" points="0 0 287.42515 0 287.42515 35.9281437 0 35.9281437"></polygon>
+                        <path d="M156.416766,59.1520958 C149.942111,54.5317633 141.028563,55.5198427 135.723004,61.4460288 C130.417445,67.3722149 130.417445,76.34036 135.723004,82.266546 C141.028563,88.1927321 149.942111,89.1808115 156.416766,84.560479 C149.400871,91.5745246 138.027511,91.5735249 131.012849,84.5582462 C123.998187,77.5429675 123.998187,66.1696074 131.012849,59.1543286 C138.027511,52.1390499 149.400871,52.1380503 156.416766,59.1520958 Z M152.450299,71.8562874 L176.622754,64.0095808 L161.676647,84.560479 L161.676647,59.1520958 L176.622754,79.702994 L152.450299,71.8562874 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

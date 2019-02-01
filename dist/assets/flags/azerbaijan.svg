@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="150px" viewBox="0 0 200 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>az</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Asia" transform="translate(-730.000000, -50.000000)">
+            <g id="az" transform="translate(730.000000, 50.000000)">
+                <polygon id="Path" fill="#3F9C35" points="0.031201248 0 199.719189 0 199.719189 150 0.031201248 150"></polygon>
+                <polygon id="Path" fill="#ED2939" points="0.031201248 0 199.719189 0 199.719189 100 0.031201248 100"></polygon>
+                <polygon id="Path" fill="#00B9E4" points="0.031201248 0 199.719189 0 199.719189 50 0.031201248 50"></polygon>
+                <ellipse id="Oval" fill="#FFFFFF" cx="94.8517941" cy="75" rx="22.4648986" ry="22.5"></ellipse>
+                <ellipse id="Oval" fill="#ED2939" cx="99.8439938" cy="75" rx="18.7207488" ry="18.75"></ellipse>
+                <polygon id="Path" fill="#FFFFFF" points="119.812793 62.5 122.215289 69.21875 128.642746 66.15625 125.585023 72.625 132.293292 75 125.585023 77.40625 128.642746 83.84375 122.215289 80.78125 119.812793 87.5 117.410296 80.78125 110.982839 83.84375 114.040562 77.40625 107.332293 75 114.040562 72.59375 110.982839 66.15625 117.410296 69.21875"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
