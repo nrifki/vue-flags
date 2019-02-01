@@ -3,6 +3,7 @@
     @click="onClick"
     :class=`[
       "vue-flag",
+      "vue-flag--" + flag,
       "vue-flag--" + size,
       {
         "vue-flag--border": border,
@@ -10,9 +11,6 @@
         "vue-flag--clickable": clickable
       }
     ]`
-    :style=`{
-      backgroundImage: "url(./flags/" + flag + ".svg)"
-    }`
   )
 </template>
 
@@ -61,6 +59,7 @@ $c: ".vue-flag";
   display: inline-block;
   background-size: cover;
   background-position: center center;
+  background-repeat: no-repeat;
   overflow: hidden;
 
   // --> SIZES <--
