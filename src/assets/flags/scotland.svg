@@ -8,7 +8,7 @@
             <g id="gb-sct" transform="translate(941.000000, 638.000000)">
                 <polygon id="Path" fill="#0065BD" points="9 12 209 12 209 162 9 162"></polygon>
                 <path d="M109,87 L9,12 L109,87 L9,162 L109,87 Z M109,87 L209,12 L109,87 L209,162 L109,87 Z" id="Shape" stroke="#FFFFFF" stroke-width="30" fill="#000000" fill-rule="nonzero"></path>
-                <g id="Group-2" fill="#4A4A4A" fill-rule="nonzero">
+                <g id="Group-2" fill="#FFFFFF" fill-rule="nonzero">
                     <rect id="Rectangle" x="184" y="0" width="25" height="12"></rect>
                     <rect id="Rectangle" x="209" y="12" width="9" height="19"></rect>
                     <rect id="Rectangle" x="9" y="0" width="25" height="12"></rect>
