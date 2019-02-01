@@ -21,6 +21,8 @@ In your `main.js` file:
 import Vue from "vue";
 import VueFlags from "vue-flags";
 
+import "vue-flags/assets/stylesheets/vue-flags.css";
+
 Vue.use(VueFlags);
 ```
 
@@ -31,6 +33,8 @@ Create a new plugin in `plugins/vueflags.js`:
 ```js
 import Vue from "vue";
 import VueFlags from "vue-flags";
+
+import "vue-flags/assets/stylesheets/vue-flags.css";
 
 Vue.use(VueFlags);
 ```
